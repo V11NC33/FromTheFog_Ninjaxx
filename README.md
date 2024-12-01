@@ -1,2 +1,1 @@
-![From The Fog](/images/logofinal)
-# From The Fog (Ninjaxx)
+![From The Fog](/images/logofinal.png)
