@@ -18,6 +18,7 @@ Ici se trouvent tous les mods que Ninjaxx utilise dans sa série *From The Fog*.
 
 ### Dépendences
 - [CreativeCore](https://www.curseforge.com/minecraft/mc-mods/creativecore) (Une dépendence pour le mod *Ambient Sounds 6*)
+- [Framework](https://www.curseforge.com/minecraft/mc-mods/framework) (Une dépendence pour le mod *MrCrayfish's Gun Mod*)
 - [GeckoLib](https://www.curseforge.com/minecraft/mc-mods/geckolib) (Une dépendence pour le mod *The Steve Dweller*)
 
 ## Modpack - Saison 2
