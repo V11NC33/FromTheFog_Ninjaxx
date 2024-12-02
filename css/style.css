@@ -76,6 +76,13 @@ body {
     padding-top: 100px;
 }
 
+.copyright2 {
+    font-family: "Kumbh Sans", sans-serif;
+    color: white;
+    text-align: center;
+    padding-top: 260px;
+}
+
 .video1 {
     display: block;
     margin-left: auto;
